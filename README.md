@@ -1,21 +1,24 @@
-# Step 1: Clone the repository using the project's Git URL.
-git clone https://github.com/SilK07/supplyLink.git
+# SupplyLink
 
-# Step 2: Navigate to the project directory.
-cd supplyLink
+SupplyLink is a web application for managing suppliers and inventory in a simple and organized way.
 
-# Step 3: Install the necessary dependencies.
-npm i
+It helps users track suppliers, manage stock, and handle basic procurement tasks.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## Tech Stack
+
+- Vite + TypeScript  
+- Tailwind CSS  
+- Supabase  
+- PostgreSQL  
+
+---
+
+## Run Locally
+
+```bash
+git clone https://github.com/VanshParashar08/Supplylink.git
+cd Supplylink
+npm install
 npm run dev
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
