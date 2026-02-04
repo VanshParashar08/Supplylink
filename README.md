@@ -1,6 +1,3 @@
-**Follow these steps to run:**
-
-```sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/SilK07/supplyLink.git
 
@@ -12,7 +9,6 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
 ## What technologies are used for this project?
 
